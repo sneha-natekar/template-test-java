@@ -1,0 +1,8 @@
+{
+  "name": "Java Development",
+  "image": "mcr.microsoft.com/vscode/devcontainers/java:11",
+  "extensions": [],
+  "settings": {
+    "java.home": "/usr/lib/jvm/java-11-openjdk-amd64"
+  }
+}
